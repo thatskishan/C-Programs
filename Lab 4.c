@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+main()
+{
+	int a,b,c;
+	printf("Enter the value of A =");
+	scanf("%d",&a);
+	printf("Enter the value of B =");
+	scanf("%d",&b);
+	
+	c=a;
+	a=b;
+	b=c;
+	
+	printf("A = %d\nB = %d",a,b);
+}

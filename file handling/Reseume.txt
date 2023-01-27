@@ -1,0 +1,13 @@
+	RESEUME
+Name		: Kishan Virani
+DOB		: 05/08/2002
+Email		: kishanvirani1@icloud.com
+Degree	: B.B.A.
+School	: Bionics International Academy
+College	: Shree J.D. Gabani Commerce Colledge
+Adderess	: A-1002 Alok Residency Near ABC circle Mota Varachha 
+City		: Surat
+Pincode	: 394101
+Age		: 20
+Experience	: 2
+Contact No	: 9054433430

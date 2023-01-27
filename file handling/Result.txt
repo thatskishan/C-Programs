@@ -1,0 +1,17 @@
+		Marksheet
+
+Student Name	: Kishan Bharatbhai Virani
+School Name		: Bionics international Academy
+Your ID No		: 142
+
+SUBJECT	 Total	Obtained 
+		 Marks	Marks
+Gujrati	 100		 98
+English	 100		 96
+Science	 100		 95
+History	 100		 97
+Maths		 100		 99
+
+		 500	       485
+
+Percentage = 97.00
